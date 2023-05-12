@@ -1,0 +1,14 @@
+{
+  "name": "interview-tests",
+  "version": "1.0.0",
+  "description": "simple interview test for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "taimoor khan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
